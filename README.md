@@ -138,4 +138,4 @@ Interpretation:
 ## Notes
 
 The pipeline is most reliable when every feature row is built from information that existed before the target fight date. If you extend the dataset, keep the chronological ordering and pre-fight snapshot logic intact so future results never leak into training.
-- Python verison - 3.13.9
+- Python version - 3.13.9
